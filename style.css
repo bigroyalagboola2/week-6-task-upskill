@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: white;
+}
+nav{
+
+    background-color: white;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+nav ul{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav li{
+    height: 60px;
+    font-style: italic;
+
+}
+nav a{
+
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: rgb(30, 145, 30);
+}
+nav a:hover{
+    background-color: #f0f0f0;
+}
+nav li:first-child{
+    margin-right: auto;
+    
+}
+.us{
+margin-right: 30px;
+text-decoration: none;
+
+}
+.me{
+    margin-right: 50px;
+}
+.you{
+    margin-right: 30px;
+}
+.tobi{
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+    border: 0;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-right: 50px;
+}
+.tobi:hover{
+    background-color: rgb(136, 255, 0);
+}
+.simi{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+.eri{
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+.hello{
+    color:green;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-left: 10px;
+}
+.hello:hover{
+    background-color: green;
+    color: white;
+}
+.tolu{
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+    border: 2px solid green;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-left: 450px;
+}
+.tolu:hover{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+.profile-photo{
+width:900px;
+margin-left: 200px;
+box-shadow: 50px;
+align-content: center;
+}
+.winner{
+    text-align: center;
+    margin-top: 50px;
+}
+.balls{
+    margin-top: 10px;
+}
+.profile{
+    margin-left: 450px;
+    width:120px;
+box-shadow: 50px;
+align-content: center;
+}
+.Rush ::after{
+     content: "";
+     display: table;
+     clear: both;
+}
+.column{
+    float: left;
+    width: 23.33%;
+    padding: 5px;
+    box-shadow: 100px;
+margin-left: 20px;
+}
+.kk{
+    width: 200px;
+    margin-left: 80px;
+}
+.valutation{
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    
+ }
+ 
+ .two{
+     padding-left: 500px;
+ }
+
+  
+  
+  .Why{
+     color: white;
+     text-align: center;
+    margin-top: 50px;
+  }
+ .middle{ 
+margin-right: 50px;
+ }
+ .how{
+    background-color: black;
+    color: white;
+ }
+ .Bolanle{
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+  }
+  
+  .Oladoyin::after{
+      content: "";
+      display: table;
+  }
+  .blaze{
+    background-color:white ;
+    color: black;
+    text-align: center;
+
+  }
+  
+  .Last::after{
+      content: "";
+      display: table;
+  }
+  .class{
+    background-color: white;
+    color: black;
+    
+  }
+.hi{
+    margin: 1px auto;
+     background-color: white;
+     display: block;
+     text-align: center;
+     
+}
+.Almost{
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+.bb{
+    color:white;
+    background-color: rgb(74, 238, 74);
+    border-radius: 20px;
+    border: 2px solid white;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    text-transform: lowercase;
+    white-space: nowrap;
+    margin-left: 600px;
+    text-align: center;
+}
+
+.bb:hover{
+    background-color: white;
+    color:green;
+    border: 2px solid greenyellow;
+}
+.be{
+    background-color: white;
+}
+.halo{
+    font-size: larger;
+margin-right: 600px;
+}
+
